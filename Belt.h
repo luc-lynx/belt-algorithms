@@ -1,5 +1,5 @@
 /* BELT (STB 34.101.31) Encryption Algorithm Implementation
- * Copyright (C) 2013  Evgeny Sidorov <luc-lynx@yandex.com>
+ * Copyright (C) 2011  Evgeny Sidorov <luc-lynx@yandex.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
